@@ -14,15 +14,14 @@ layout:
 
 # A Guide on Masterbundling
 
-## Set up Your Mod Folder(in unity)
+## Set up Your Mod Folder(in Unity)
 
 Create a folder in Unity for all your mod's files to go in. In this example in Assets/MyMods/TestMod/TestModBundles
 
 ## Asset Label
 
-By default, the inspector window should be opened on the right side. If not, go to the menu bar and click **Window** > **General** > **Inspector**. Drag it where you want it.\
-Navigate to the parent of your mod folder (in this case **MyMods**) and select your mod(TestMod) folder.\
-Open the dropdown in **Asset Labels** and select **New...** Pick your desired bundle name suffixed with “.masterbundle”(mine will be testmodbundles.masterbundle). The name cannot contain spaces, underscores/dashes, capital letters, or special characters.
+By default, the inspector window should be opened on the right side. If not, go to the menu bar and click **Window** > **General** > **Inspector**. \
+Navigate to the parent of your mod folder (in this case **MyMods**) and select your mod(**TestMod**) folder. Open the dropdown in **Asset Labels** and select **New...** Pick your desired bundle name suffixed with “.masterbundle”(mine will be testmodbundles.masterbundle). The name cannot contain spaces, underscores/dashes, capital letters, or special characters.
 
 ## Setting up folders for export
 
