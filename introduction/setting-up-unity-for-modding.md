@@ -14,13 +14,13 @@ layout:
 
 # Setting up Unity for modding
 
-## Getting Started[](https://docs.smartlydressedgames.com/en/stable/about/getting-started.html#getting-started)
+## Getting Started
 
-Installing the Unity Editor is required for exporting custom content into the game. Most 2021.3 LTS version should be compatible; Unturned currently uses 2021.3.29f1. [View Download Links](https://unity.com/releases/editor/qa/lts-releases?version=2021.3)
+Installing the Unity Editor is required for exporting custom content into Unturned. Most 2021.3 LTS version should be compatible; Unturned currently uses 2021.3.29f1.&#x20;
 
 Once Unity is installed, a project can be created to house custom content. At this point, it is recommended to import Unturned’s provided Unity packages.
 
-### Unity Packages[](https://docs.smartlydressedgames.com/en/stable/about/getting-started.html#unity-packages)
+### Unity Packages
 
 Unturned provides multiple Unity packages with the base installation of the game. These packages include examples that can be referenced when creating custom content, and provide the tools necessary to export content from Unity.
 
@@ -31,9 +31,7 @@ These Unity packages are located in the `.../Unturned/Extras/Sources` directory,
 3. In the file browser, navigate to the `.../Unturned/Extras/Sources` directory.
 4. Import the `Project.unitypackage` file; importing the `ExampleAssets.unitypackage` file is optional.
 
-When importing a Unity package, all of the items in the package will be installed by default. You may deselect any items that you do not want to import.
-
-#### Project.unitypackage[](https://docs.smartlydressedgames.com/en/stable/about/getting-started.html#project-unitypackage)
+#### Project.unitypackage
 
 This package contains the bare-bones required to export custom content:
 
@@ -41,7 +39,7 @@ This package contains the bare-bones required to export custom content:
 * [Asset Bundling Tools](https://docs.smartlydressedgames.com/en/stable/assets/asset-bundles.html#doc-asset-bundles)
 * [Mod Hooks](https://docs.smartlydressedgames.com/en/stable/assets/mod-hooks.html#doc-assets-mod-hooks) (optional)
 
-#### ExampleAssets.unitypackage[](https://docs.smartlydressedgames.com/en/stable/about/getting-started.html#exampleassets-unitypackage)
+#### ExampleAssets.unitypackage
 
 This package contains vanilla content examples, and several useful prefabs:
 
