@@ -16,7 +16,7 @@ layout:
 
 ### Preface
 
-This page will teach you how to make a basic object(building) as a mod for Unturned. It will **not** teach you basics about asset making, only the barebones of what is needed for you to complete and put the asset ingame.&#x20;
+This page will teach you how to make a basic object(building) and get it ready to export for Unturned. It will **not** teach you basics about asset making, only the barebones of what is needed for you to complete and put the asset ingame.&#x20;
 
 ### What makes up an Object?
 
@@ -31,3 +31,5 @@ This page will teach you how to make a basic object(building) as a mod for Untur
 <figure><img src="../.gitbook/assets/475AB537-D115-4BF4-92AD-FA9D5863B0CB.jpeg" alt="Example hierarchy(sorry that you cant see it)" width="149"><figcaption><p>Exaple model</p></figcaption></figure>
 
 ### .Dat file
+
+explain dat file and parameters
