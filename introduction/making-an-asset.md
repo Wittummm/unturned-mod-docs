@@ -14,3 +14,6 @@ layout:
 
 # Making an Asset
 
+your mesh
+
+your dat file
