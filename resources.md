@@ -20,6 +20,7 @@ There is seemingly a lack information onm modding unless you dig through the var
 
 TL;DR you can ignore above text if you just want to get the resources<br>
 [Official Unturned Documentation](https://docs.smartlydressedgames.com/en/stable/)&#x20; <br>
-[Official Unturned Discord(has a modding category)](https://discord.gg/unturned)<br>
+[Official Unturned Discord(has a modding category)](https://discord.gg/unturned)
 
+---
 Official Unturned Example files(ExampleAssets.unitypackage)
