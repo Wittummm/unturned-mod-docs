@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About me](README.md)
+* [Why?](README.md)
 * [Resources](resources.md)
 * [Getting Started](getting-started.md)
   * [Setting up Unity for modding](introduction/setting-up-unity-for-modding.md)
