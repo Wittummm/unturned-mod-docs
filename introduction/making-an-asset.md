@@ -14,6 +14,8 @@ layout:
 
 # Making an Asset
 
-your mesh
+### Preface
 
-your dat file
+This page will teach you how to make a basic object(building) as a mod for Unturned. It will **not** teach you basics about asset making, only the barebones of what is needed for you to complete and put the asset ingame.&#x20;
+
+WIP

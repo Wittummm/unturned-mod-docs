@@ -16,15 +16,15 @@ layout:
 
 ## Getting Started
 
-Installing the Unity Editor is required for exporting custom content into Unturned. Most 2021.3 LTS version should be compatible; Unturned currently uses 2021.3.29f1.&#x20;
+Installing the Unity Editor is required for exporting custom content into Unturned. Most 2021.3 LTS version should be compatible; Unturned currently uses 2021.3.29f1 (as of 2024/4/23).
 
-Once Unity is installed, a project can be created to house custom content. At this point, it is recommended to import Unturned’s provided Unity packages.
+Once Unity is installed, a project can be created for your mods. At this point, it is recommended to import Unturned’s provided Unity packages.
 
 ### Unity Packages
 
 Unturned provides multiple Unity packages with the base installation of the game. These packages include examples that can be referenced when creating custom content, and provide the tools necessary to export content from Unity.
 
-These Unity packages are located in the `.../Unturned/Extras/Sources` directory, and are regularly updated alongside any major updates to the game.
+These Unity packages are located in the `.../Unturned/Extras/Sources` directory, and are regularly updated alongside any major updates to the game. You may want to occasionally reimport these packages.
 
 1. Open your Unity project.
 2. Select **Assets > Import Package > Custom Package…** from the toolbar.
@@ -53,4 +53,6 @@ Warning
 Custom content should not be placed into the CoreMasterBundle directory. Instead, create a separate directory to house your custom content.
 {% endhint %}
 
-[Source: Official documentation](https://docs.smartlydressedgames.com/en/stable/about/getting-started.html)\
+[Source: Official documentation](https://docs.smartlydressedgames.com/en/stable/about/getting-started.html)
+
+(Proofread: 2024/04/23)\

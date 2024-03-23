@@ -42,3 +42,7 @@ Asset_Bundle_Version 5
 ## Masterbundling
 
 Open the master bundling tool via **Window** > **Unturned** > **Master Bundle Tool**. Expand the Asset Bundle and check your label(in this case testmodbundles.masterbundle). Expand the master bundle click the “…” and select your folder(in this case …/Maps/DemoMap/Bundles/TestMod). You can optionally check the multi-platform for the published version of the mod, for testing purposes it does not need to check it.
+
+
+
+(Proofread: 2024/04/23)
