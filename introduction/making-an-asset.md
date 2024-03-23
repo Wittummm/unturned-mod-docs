@@ -28,6 +28,6 @@ This page will teach you how to make a basic object(building) as a mod for Untur
 
 #### Example
 
-<figure><img src="../.gitbook/assets/475AB537-D115-4BF4-92AD-FA9D5863B0CB.jpeg" alt="Example hierarchy(sorry that you cant see it)" width="149"><figcaption><p>Exaple modl</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/475AB537-D115-4BF4-92AD-FA9D5863B0CB.jpeg" alt="Example hierarchy(sorry that you cant see it)" width="149"><figcaption><p>Exaple model</p></figcaption></figure>
 
 ### .Dat file
