@@ -7,3 +7,4 @@
   * [Making a (very simple) Asset](introduction/making-an-asset.md)
   * [A Guide on Masterbundling](introduction/a-guide-on-masterbundling.md)
 * [Assets](assets.md)
+* [.Dat File Format](.dat-file-format.md)
