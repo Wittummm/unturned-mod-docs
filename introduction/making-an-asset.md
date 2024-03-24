@@ -67,8 +67,7 @@ now explain that now they got these 2 files blah blah balh
 now explain that thye need to store these dat files in a temporary folder
 
 
-
+(Proofread: 2024/04/24)
 Sources:
-
 [Official Documentation: Object Assets](https://docs.smartlydressedgames.com/en/stable/assets/object-asset.html)<br>
 Example Files: .../Objects/Large/Buildings
