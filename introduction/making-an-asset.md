@@ -16,7 +16,7 @@ layout:
 
 ### Preface
 
-This page will teach you how to make a basic object(building) and get it ready to export for Unturned. It will **not** teach you basics about asset making, only the barebones of what is needed for you to complete and put the asset ingame.&#x20;
+This page will teach you how to make a basic object(building) and get it ready to export for Unturned. It will **not** teach you basics about asset making, only the barebones of what is needed for you to complete and put the asset ingame.
 
 ### What makes up an Object?
 
@@ -50,7 +50,7 @@ LOD_Bias 0.8
 {% endcode %}
 
 * **GUID**(**G**lobal **U**nique **ID**entifier) - a random unique id, you can use online generators to generate it.
-* Type - Small, Medium, Large, Decal, NPC. We are making a building which is Large.&#x20;
+* Type - Small, Medium, Large, Decal, NPC. We are making a building which is Large.
 * ID - a unique id ranging from 0 - 65535(I'll use 50000)
 * Landmark\_Quality - Off, Low, Medium, High, Ultra. As this is a building we will use Medium.
 * LOD - Area, Mesh. Mesh uses the bounding box of the mesh as the area there are other properties to modify it but it is all numbers and practically impossible to visualize. Area uses the Occlusion Areas named "Occlusion" as the areas to apply the bias on.
@@ -67,7 +67,8 @@ now explain that now they got these 2 files blah blah balh
 now explain that thye need to store these dat files in a temporary folder
 
 
-(Proofread: 2024/04/24)
-Sources:
-[Official Documentation: Object Assets](https://docs.smartlydressedgames.com/en/stable/assets/object-asset.html)<br>
+
+(Proofread: 2024/04/24)&#x20;
+
+Sources: [Official Documentation: Object Assets](https://docs.smartlydressedgames.com/en/stable/assets/object-asset.html)\
 Example Files: .../Objects/Large/Buildings

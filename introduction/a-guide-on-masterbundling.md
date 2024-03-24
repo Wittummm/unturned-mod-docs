@@ -61,4 +61,10 @@ Open the master bundling tool via **Window** > **Unturned** > **Master Bundle To
 
 All you need to do is move the MyFirstBuilding.dat and English.dat into the MyFirstBuilding folder like shown above.
 
+
+
 (Proofread: 2024/04/24)
+
+Sources:
+
+[A Steam guide on MasterBundling](https://steamcommunity.com/sharedfiles/filedetails/?id=2976338845)
