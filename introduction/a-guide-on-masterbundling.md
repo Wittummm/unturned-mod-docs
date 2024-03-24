@@ -20,7 +20,7 @@ Create a folder in Unity for all your mod's files to go in. In this example in A
 
 ## Asset Label
 
-By default, the inspector window should be opened on the right side. If not, go to the menu bar and click **Window** > **General** > **Inspector**. \
+By default, the inspector window should be opened on the right side. If not, go to the menu bar and click **Window** > **General** > **Inspector**.\
 Navigate to the parent of your mod folder (in this case **MyMods**) and select your mod(**TestMod**) folder. Open the dropdown in **Asset Labels** and select **New...** Pick your desired bundle name suffixed with “.masterbundle”(mine will be testmodbundles.masterbundle). The name cannot contain spaces, underscores/dashes, capital letters, or special characters.
 
 ## Setting up folders for export
@@ -43,16 +43,14 @@ Asset_Bundle_Version 5
 
 Open the master bundling tool via **Window** > **Unturned** > **Master Bundle Tool**. Expand the Asset Bundle and check your label(in this case testmodbundles.masterbundle). Expand the master bundle click the “…” and select your folder(in this case …/Maps/DemoMap/Bundles/TestMod). You can optionally check the multi-platform for the published version of the mod, for testing purposes it does not need to check it.
 
-
-
 **Your file structure should look something like this:**
 
 ```
 .../Test map/Bundles
     MasterBundle.dat
     testmodbundles.masterbundle
-    testmodbundles.masterbundle.manifest
-    (there will be some more files if you ticked multi-platform)
+    testmodbundles.
+    (other files are omitted form here to reduce confusion just ignore them)
     (...)
     MyFirstBuilding
         MyFirstBuilding.dat
@@ -61,8 +59,6 @@ Open the master bundling tool via **Window** > **Unturned** > **Master Bundle To
 
 All you need to do is move the MyFirstBuilding.dat and English.dat into the MyFirstBuilding folder like shown above.
 
-
-
-(Proofread: 2024/04/24)<br>
-Sources:<br>
+(Proofread: 2024/04/24)\
+Sources:\
 [A Steam guide on MasterBundling](https://steamcommunity.com/sharedfiles/filedetails/?id=2976338845)
