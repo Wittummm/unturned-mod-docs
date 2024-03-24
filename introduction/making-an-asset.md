@@ -65,3 +65,11 @@ Name My First Building!
 now explain that now they got these 2 files blah blah balh
 
 now explain that thye need to store these dat files in a temporary folder
+
+
+
+Sources:
+
+[Official Documentation: Object Assets](https://docs.smartlydressedgames.com/en/stable/assets/object-asset.html)
+
+Example Files: .../Objects/Large/Buildings
