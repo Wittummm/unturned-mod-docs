@@ -20,6 +20,8 @@ This page will teach you how to make a basic object(building) and get it ready t
 
 ### What makes up an Object?
 
+(If you are too lazy to read or simply don't understand you can find videos on youtube. [Nelson's video](https://youtu.be/rAZ9KEGjSUk?feature=shared) will teach you how to make the assets but it is lengthy so you can find a short one and use [Nelson's video](https://youtu.be/rAZ9KEGjSUk?feature=shared) for the missing details.
+
 * Nav - is the mesh that zombies uses as its navigation mesh. This mesh does not need roofs, frames(of windows, doors, etc). The mesh should be simple and the foundation should be expanded to be more of a ramp. Every ledge should be smoothed so that it does not have such a harsh corner like the ledge of a window should be more ramp like. Needs a Mesh Collider. Tag and layer: Navmesh.
 * Clip(optional) - is the mesh that the server uses as the collision, the client does not use this mesh for the collision. Needs a Collider. Tag and layer: (Large, Medium, Small)
 * Skybox(optional) - is the mesh that is rendered when the object is consider as a Landmark. This mesh should be very simple at around 30 triangles. It usually does not include an interior and is a primitive shape. Needs a Mesh Filter, and Mesh Renderer. Tag and layer: (Large, Medium, Small)
@@ -59,3 +61,7 @@ LOD_Bias 0.8
 Name My First Building!
 ```
 {% endcode %}
+
+now explain that now they got these 2 files blah blah balh
+
+now explain that thye need to store these dat files in a temporary folder

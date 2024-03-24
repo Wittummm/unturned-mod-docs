@@ -43,20 +43,22 @@ Asset_Bundle_Version 5
 
 Open the master bundling tool via **Window** > **Unturned** > **Master Bundle Tool**. Expand the Asset Bundle and check your label(in this case testmodbundles.masterbundle). Expand the master bundle click the “…” and select your folder(in this case …/Maps/DemoMap/Bundles/TestMod). You can optionally check the multi-platform for the published version of the mod, for testing purposes it does not need to check it.
 
+
+
+**Your file structure should look something like this:**
+
+```
 .../Test map/Bundles
+    MasterBundle.dat
+    testmodbundles.masterbundle
+    testmodbundles.masterbundle.manifest
+    (there will be some more files if you ticked multi-platform)
+    (...)
+    MyFirstBuilding
+        MyFirstBuilding.dat
+        English.dat
+```
 
-&#x20;   MasterBundle.dat
+All you need to do is move the MyFirstBuilding.dat and English.dat into the MyFirstBuilding folder like shown above.
 
-&#x20;  testmodbundles.masterbundle
-
-&#x20;   testmodbundles.masterbundle.manifest
-
-&#x20;   (there will be some more files if you ticked multi-platform)
-
-&#x20;   MyFirstBuilding
-
-&#x20;       MyFirstBuilding.dat
-
-&#x20;       English.dat
-
-(Proofread: 2024/04/23)
+(Proofread: 2024/04/24)
