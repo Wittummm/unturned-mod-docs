@@ -53,6 +53,5 @@ Warning
 Custom content should not be placed into the CoreMasterBundle directory. Instead, create a separate directory to house your custom content.
 {% endhint %}
 
-(Proofread: 2024/04/23)&#x20;
-
+(Proofread: 2024/04/23)<br>
 Sources: [Source: Official documentation](https://docs.smartlydressedgames.com/en/stable/about/getting-started.html)
