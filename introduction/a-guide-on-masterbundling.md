@@ -14,7 +14,7 @@ layout:
 
 # A Guide on Masterbundling
 
-## Set up Your Mod Folder(in Unity)
+## Setting up Your Mod Folder(in Unity)
 
 Create a folder in Unity for all your mod's files to go in. In this example in Assets/MyMods/TestMod/TestModBundles
 
@@ -25,12 +25,11 @@ Navigate to the parent of your mod folder (in this case **MyMods**) and select y
 
 ## Setting up folders for export
 
-Create a folder to export your assets into. This is also where your .dat and .asset files will be. If you're doing this for a map, it must be in the **Bundles** folder (or a subfolder of it). Here you will create a folder named **MasterBundle.dat**. If you haven't already, enable file name extensions to allow you to create the file easier. Note that the extensions must be correct or else Unturned wont recognize it(.txt does not work).
+Create a folder to export your assets into. This is also where your .dat and .asset files will be. If you're doing this for a map, it must be in the **Bundles** folder. Here you will create a file named **MasterBundle.dat**. If you haven't already, enable file name extensions to allow you to create the file easier. Note that the extensions must be correct or else Unturned wont recognize it(.txt does not work).
 
 ## Examples
 
-#### MasterBundle.dat
-
+{% code title="MasterBundle.dat" %}
 ```
 Asset_Bundle_Name testmodbundles.masterbundle 
 // the directory in unity of everything before the bundle
@@ -38,6 +37,7 @@ Asset_Prefix Assets/MyMods/TestMod
 // 2021 -> 5 | 2020 -> 4 | 2018.4 -> 3 | 2017.4 -> 2 | 5.5 -> 1
 Asset_Bundle_Version 5
 ```
+{% endcode %}
 
 ## Masterbundling
 
@@ -57,7 +57,11 @@ Open the master bundling tool via **Window** > **Unturned** > **Master Bundle To
         English.dat
 ```
 
-All you need to do is move the MyFirstBuilding.dat and English.dat into the MyFirstBuilding folder like shown above.
+All you need to do now is move the MyFirstBuilding.dat and English.dat into the MyFirstBuilding folder like shown above.
+
+Go into the map and spawn your first building in!
+
+***
 
 (Proofread: 2024/04/24)\
 Sources:\

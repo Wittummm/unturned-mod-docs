@@ -32,7 +32,7 @@ _If you are too lazy to read or simply don't understand you can find videos on y
 
 <figure><img src="../.gitbook/assets/475AB537-D115-4BF4-92AD-FA9D5863B0CB.jpeg" alt="Example hierarchy(sorry that you cant see it)" width="149"><figcaption><p>Example model</p></figcaption></figure>
 
-### .Dat file
+### .Dat files
 
 #### **Example**
 
@@ -62,9 +62,11 @@ Name My First Building!
 ```
 {% endcode %}
 
-now explain that now they got these 2 files blah blah balh
+### Next!
 
-now explain that thye need to store these dat files in a temporary folder
+Now you should have English.dat and MyFirstBuilding.dat. For now, store them somewhere where you can easily access. For the next guide, I will show you how to bundle your assets and use these dat files to finally get your assets in game!
+
+***
 
 (Proofread: 2024/04/24)\
 Sources: [Official Documentation: Object Assets](https://docs.smartlydressedgames.com/en/stable/assets/object-asset.html)\
