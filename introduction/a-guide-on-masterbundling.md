@@ -63,8 +63,6 @@ All you need to do is move the MyFirstBuilding.dat and English.dat into the MyFi
 
 
 
-(Proofread: 2024/04/24)
-
-Sources:
-
+(Proofread: 2024/04/24)<br>
+Sources:<br>
 [A Steam guide on MasterBundling](https://steamcommunity.com/sharedfiles/filedetails/?id=2976338845)
