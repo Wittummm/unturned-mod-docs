@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Making an Asset
+# Making a (very simple) Asset
 
 ### Preface
 
@@ -32,4 +32,9 @@ This page will teach you how to make a basic object(building) and get it ready t
 
 ### .Dat file
 
-explain dat file and parameters
+* **GUID**(**G**lobal **U**nique **ID**entifier) - a random unique id, you can use online generators to generate it.
+* Type - Small, Medium, Large, Decal, NPC. We are making a building which is Large.&#x20;
+* ID - a unique id ranging from 0 - 65535(I'll use 50000)
+* Landmark\_Quality - Off, Low, Medium, High, Ultra. As this is a building we will use Medium.
+* LOD
+* LOD\_Bias
