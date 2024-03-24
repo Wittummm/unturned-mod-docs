@@ -30,7 +30,7 @@ This page will teach you how to make a basic object(building) and get it ready t
 
 #### Example
 
-<figure><img src="../.gitbook/assets/475AB537-D115-4BF4-92AD-FA9D5863B0CB.jpeg" alt="Example hierarchy(sorry that you cant see it)" width="149"><figcaption><p>Exaple model</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/475AB537-D115-4BF4-92AD-FA9D5863B0CB.jpeg" alt="Example hierarchy(sorry that you cant see it)" width="149"><figcaption><p>Example model</p></figcaption></figure>
 
 ### .Dat file
 
@@ -70,6 +70,5 @@ now explain that thye need to store these dat files in a temporary folder
 
 Sources:
 
-[Official Documentation: Object Assets](https://docs.smartlydressedgames.com/en/stable/assets/object-asset.html)
-
+[Official Documentation: Object Assets](https://docs.smartlydressedgames.com/en/stable/assets/object-asset.html)<br>
 Example Files: .../Objects/Large/Buildings
