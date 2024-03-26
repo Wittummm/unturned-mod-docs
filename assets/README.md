@@ -14,3 +14,5 @@ layout:
 
 # Assets
 
+Everything in Unturned is an asset and you are limited by it.&#x20;
+

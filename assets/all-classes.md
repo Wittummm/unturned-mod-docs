@@ -14,6 +14,8 @@ layout:
 
 # All Classes
 
+All asset class names used for reference.
+
 <details>
 
 <summary>Arrest Tool</summary>
