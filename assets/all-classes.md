@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # All Classes
 
 <details>
@@ -53,3 +67,24 @@
 * ItemThrowableAsset/Throwable Asset
 
 </details>
+
+<details>
+
+<summary>Explosives</summary>
+
+* ItemDetonatorAsset/Detonator Asset
+* ItemChargeAsset/Charge Asset
+
+</details>
+
+<details>
+
+<summary>Steam Stuff(useless)</summary>
+
+* ~~ItemBoxAsset/Box Asset~~
+* ~~ItemKeyAsset/Key Asset~~
+
+</details>
+
+
+
