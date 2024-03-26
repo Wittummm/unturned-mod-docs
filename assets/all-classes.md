@@ -149,7 +149,7 @@ All asset class names used for reference.
 * ResourceAsset/Resource Asset
 * ItemTrapAsset/Trap Asset
 
-</details
+</details>
 
 <details>
 
