@@ -134,7 +134,13 @@ All asset class names used for reference.
 * ItemOilPumpAsset/Oil Pump Asset
 * ItemRefillAsset/Refill Asset
 * ItemTankAsset/Tank Asset
-* Physical SpObjects
+
+</details>
+
+<details>
+
+<summary>Physical Objects</summary>
+
 * ItemPlaceableAsset/Placeable
 * ItemMapAsset/Map Asset
 * ItemStorageAsset/Storage Asset
