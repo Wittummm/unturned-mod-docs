@@ -6,5 +6,6 @@
   * [Setting up Unity for modding](introduction/setting-up-unity-for-modding.md)
   * [Making a (very simple) Asset](introduction/making-an-asset.md)
   * [A Guide on Masterbundling](introduction/a-guide-on-masterbundling.md)
-* [Assets](assets.md)
+* [Assets](assets/README.md)
+  * [All Classes](assets/all-classes.md)
 * [.Dat File Format](.dat-file-format.md)
