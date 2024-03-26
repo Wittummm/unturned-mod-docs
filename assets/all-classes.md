@@ -141,7 +141,7 @@ All asset class names used for reference.
 
 <summary>Physical Objects</summary>
 
-* ItemPlaceableAsset/Placeable
+* ItemPlaceableAsset/Placeable Asset
 * ItemMapAsset/Map Asset
 * ItemStorageAsset/Storage Asset
 * ItemStructureAsset/Structure Asset
@@ -187,5 +187,3 @@ All asset class names used for reference.
 * ZombieDifficultyAsset/ Zombie Difficulty Asset
 
 </details>
-
-
