@@ -88,5 +88,98 @@ All asset class names used for reference.
 
 </details>
 
+<details>
+
+<summary>Foods and Drinks</summary>
+
+* ItemConsumeableAsset/Consumeable Asset
+* ItemFoodAsset/Food Asset
+* ItemWaterAsset/Water Asset
+
+</details>
+
+<details>
+
+<summary>Radiation and Healing</summary>
+
+* ItemFilterAsset/Filter Asset
+* ItemMaskAsset/Mask Asset
+* ItemMedicalAsset/Medical Asset
+
+</details>
+
+<details>
+
+<summary>Farming</summary>
+
+* ItemFarmAsset/Farm Asset
+* ItemGrowerAsset/Grower Asset
+
+</details>
+
+<details>
+
+<summary>Fishing</summary>
+
+* ItemFisherAsset/Fisher Asset
+
+</details>
+
+<details>
+
+<summary>Fuel and electricity</summary>
+
+* ItemFuelAsset/Fuel Asset
+* ItemGeneratorAsset/Generator Asset
+* ItemOilPumpAsset/Oil Pump Asset
+* ItemRefillAsset/Refill Asset
+* ItemTankAsset/Tank Asset
+* Physical SpObjects
+* ItemPlaceableAsset/Placeable
+* ItemMapAsset/Map Asset
+* ItemStorageAsset/Storage Asset
+* ItemStructureAsset/Structure Asset
+* ItemBarricadeAsset/Barricade Asset
+* ItemBeaconAsset/Beacon Asset
+* FoliageAsset/Foliage Asset
+* LevelAsset/Level Asset
+* ObjectAsset/Object Asset
+* PhysicsMaterialAsset/Physics Material Asset
+* PhysicsMaterialExtensionAsset/Physics Material Extension Asset
+* ResourceAsset/Resource Asset
+* ItemTrapAsset/Trap Asset
+
+</details
+
+<details>
+
+<summary>Vehicle related</summary>
+
+* ItemTireAsset/Tire Asset
+* ItemToolAsset/Tool Asset
+* ItemVehicleRepairToolAsset/Vehicle Repair Tool Asset
+* VehicleAsset/Vehicle Asset
+* VehiclePhysicsProfileAsset/Vehicle Physics Profile Asset
+
+</details>
+
+<details>
+
+<summary>Miscellaneous</summary>
+
+* ItemCloudAsset/Cloud Asset
+* ItemCurrencyAsset/Currency Asset
+* ItemLibraryAsset/Library Asset
+* CraftingBlacklistAsset/Crafting Blacklist Asset
+* AnimalAsset/Animal Asset
+* AirdropAsset/Airdrop Asset
+* EffectAsset/Effect Asset
+* NPCAsset/NPC Asset
+* SpawnAsset/Spawn Asset
+* StereoSongAsset/Stereo Song Asset
+* WeatherAsset/Weather Asset
+* ZombieDifficultyAsset/ Zombie Difficulty Asset
+
+</details>
 
 
