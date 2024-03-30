@@ -54,7 +54,7 @@ LOD_Bias 0.8
 * ID - a unique id ranging from 0 - 65535(I'll use 50000)
 * Landmark\_Quality - Off, Low, Medium, High, Ultra. As this is a building we will use Medium.
 * LOD - Area, Mesh. Mesh uses the bounding box of the mesh as the area there are other properties to modify it but it is all numbers and practically impossible to visualize. Area uses the Occlusion Areas named "Occlusion" as the areas to apply the bias on.
-* LOD\_Bias - How much to reduce the lod by. Formula: LOD\_Bias \* RenderDistance. The higher the more detailed vice versa.
+* LOD\_Bias - How much to reduce the lod by. The higher the more detailed vice versa.
 
 {% code title="English.dat" lineNumbers="true" %}
 ```
