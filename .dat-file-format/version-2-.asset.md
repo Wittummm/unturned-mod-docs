@@ -16,7 +16,7 @@ layout:
 
 #### Features
 
-* Quotes for exact key-value specification&#x20;
+* Key-Value pairs requires quotes(or else it will fallback to v1)
 * Escape character "\\" Example: "This is a quote value \\"Hello World!\\""
 * Supports dictionaries using "{key value}" (must be on a new line)
 * Supports arrays/lists using "\[value]" (must be on a new line)
