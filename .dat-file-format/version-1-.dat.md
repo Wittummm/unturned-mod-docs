@@ -14,3 +14,7 @@ layout:
 
 # 1️ Version 1(.dat)
 
+#### Features
+
+* Key-Value pairs
+* Comments(not confirmed if v1)
