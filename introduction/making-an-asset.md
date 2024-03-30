@@ -36,18 +36,15 @@ _If you are too lazy to read or simply don't understand you can find videos on y
 
 #### **Example**
 
-{% code title="MyFirstBuilding.dat" lineNumbers="true" fullWidth="true" %}
-```
-// Hypens are not required, it is up to your preference.
-GUID 01de685f-0009-418a-ace8-637ad3063a7f
+<pre data-title="MyFirstBuilding.dat" data-full-width="true"><code><strong>// Hypens are not required, it is up to your preference.
+</strong>GUID 01de685f-0009-418a-ace8-637ad3063a7f
 ID 50000
 
 Type Large
 Landmark_Quality Medium
 LOD Area
 LOD_Bias 0.8
-```
-{% endcode %}
+</code></pre>
 
 * **GUID**(**G**lobal **U**nique **ID**entifier) - a random unique id, you can use online generators to generate it.
 * Type - Small, Medium, Large, Decal, NPC. We are making a building which is Large.
