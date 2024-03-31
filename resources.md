@@ -22,3 +22,5 @@ TL;DR you can ignore above text if you just want to get the resources\
 [Official Unturned Documentation](https://docs.smartlydressedgames.com/en/stable/)\
 [Official Unturned Discord(has a modding category)](https://discord.gg/unturned)\
 Official Unturned Example files(ExampleAssets.unitypackage)
+
+Unofficial Unturned Module Documentation(2018, may be outdated)
