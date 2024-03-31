@@ -12,5 +12,9 @@
 * [Assets](assets/README.md)
   * [All Classes](assets/all-classes.md)
 * [📁 Data File Format](.dat-file-format/README.md)
-  * [1️ Version 1(.dat)](.dat-file-format/version-1-.dat.md)
-  * [2️ Version 2(.asset)](.dat-file-format/version-2-.asset.md)
+  * [1️ 1️ Version 1(.dat)](.dat-file-format/version-1-.dat.md)
+  * [2️ 2️ Version 2(.asset)](.dat-file-format/version-2-.asset.md)
+
+***
+
+* [Modding Assets](modding-assets-1.md)
