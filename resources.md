@@ -24,8 +24,5 @@ TL;DR you can ignore above text if you just want to get the resources\
 Official Unturned Example files(ExampleAssets.unitypackage)\
 [Unofficial Unturned Module Documentation](https://unturneddocs.github.io/UnturnedDocs/#/)(2018, may be outdated)
 
-
-
-[My stockpile of random unorganized info on Unturned](https://unturned-random-info.vercel.app/)
-
+[My stockpile of random unorganized info on Unturned](https://unturned-random-info.vercel.app/)\
 My blog(may have unrelated info) (WIP)
