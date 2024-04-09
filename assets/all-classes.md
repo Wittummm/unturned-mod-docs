@@ -16,7 +16,7 @@ layout:
 
 All asset class names used for reference.
 
-(Some may be missing as there's a lot)
+Some may be missing, for a complete list refer to [Complete list of Asset classes ](https://unturned-random-info.vercel.app/10-information/00-assets/all-asset-classes/)or the source code itself.
 
 <details>
 
