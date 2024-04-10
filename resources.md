@@ -25,5 +25,5 @@ Official Unturned Example files(ExampleAssets.unitypackage)\
 [Unofficial Unturned Module Documentation](https://unturneddocs.github.io/UnturnedDocs/#/)(2018, may be outdated)\
 [Unturned's source code](https://github.com/Unturned-Datamining/Unturned-Datamining)(technical)
 
-[My stockpile of random unorganized info on Unturned](https://unturned-random-info.vercel.app/)\
-My blog(may have unrelated info) (WIP)
+[My stockpile of guides and information](https://unturned-random-info.vercel.app/)\
+My blog(may have info unrelated to unturned)
