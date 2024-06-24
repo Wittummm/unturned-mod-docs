@@ -32,6 +32,8 @@ _If you are too lazy to read or simply don't understand you can find videos on y
 
 <figure><img src="../.gitbook/assets/475AB537-D115-4BF4-92AD-FA9D5863B0CB.jpeg" alt="Example hierarchy(sorry that you cant see it)" width="149"><figcaption><p>Example model</p></figcaption></figure>
 
+Now let's pur this prefab in Unity/MyMods/TestMod/TestModBundles/Objects/Large/MyFirstBuiling in Unity.
+
 ### .Dat files
 
 #### **Example**
