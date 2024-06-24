@@ -33,7 +33,7 @@ Create a folder to export your assets into. This is also where your .dat and .as
 ```
 Asset_Bundle_Name testmodbundles.masterbundle 
 // the directory in unity of everything before the bundle
-Asset_Prefix Assets/MyMods/TestMod
+Asset_Prefix Assets/MyMods/TestMod/TestModBundles
 // 2021 -> 5 | 2020 -> 4 | 2019/2018.4 -> 3 | 2017.4 -> 2 | 5.5 -> 1
 Asset_Bundle_Version 5
 ```
@@ -51,7 +51,7 @@ Open the master bundling tool via **Window** > **Unturned** > **Master Bundle To
     testmodbundles.masterbundle
     (other files are omitted form here to reduce confusion just ignore them)
     (...)
-    MyFirstBuilding
+    Objects/Large/MyFirstBuilding (Has to match directly 1:1 with Unity hierachy)
         MyFirstBuilding.dat
         English.dat
 ```
