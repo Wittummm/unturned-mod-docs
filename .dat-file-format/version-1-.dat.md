@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# 1️ Version 1(.dat)
+# Version 1(.dat)
 
 #### Features
 
 * Key-Value pairs
-* Comments(not confirmed if v1)
+* Comments(cannot in-line)
